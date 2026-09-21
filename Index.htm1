@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Car Parts</title>
+</head>
+
+<body>
+    <h1>🚗 My Car Parts</h1>
+
+    <p>Quality spare parts for your car.</p>
+
+    <h2>Our Parts</h2>
+
+    <h3>Brake Pads</h3>
+    <p>Reliable brake pads for selected car models.</p>
+    <p>Price: Contact us</p>
+
+    <h3>Car Lights</h3>
+    <p>Replacement lights and bulbs.</p>
+    <p>Price: Contact us</p>
+
+    <h3>Engine Parts</h3>
+    <p>Various replacement engine parts.</p>
+    <p>Price: Contact us</p>
+
+    <h2>Contact Us</h2>
+    <p>Message us to check availability and price.</p>
+</body>
+</html>
